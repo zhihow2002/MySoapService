@@ -1,6 +1,7 @@
 using MySoapService.Middleware;
 using MySoapService.ServiceModel.Interfaces;
 using SoapCore;
+using MySoapService.ServiceModel;
 
 internal class Program
 {
